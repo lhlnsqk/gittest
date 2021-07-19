@@ -12,5 +12,12 @@ public class git {
     public void test(){
         //hello test!!!!
         System.out.println("test!!!!");
+        System.out.println("test!!!!");
+        System.out.println("test!!!!");
+        System.out.println("test!!!!");
+        System.out.println("test!!!!");
+        System.out.println("test!!!!");
+        System.out.println("test!!!!");
+        System.out.println("test!!!!");
     }
 }
